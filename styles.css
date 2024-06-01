@@ -166,12 +166,23 @@
   .skills__header {
     color: var(--secondary-text-color);
     text-align: center;
+    margin-top: 20px;
     margin-bottom: 15px;
   }
   
   .skills__text {
     color: var(--secondary-text-color);
     text-align: justify;
+  }
+
+  #stack {
+    text-align: center;
+  }
+
+  #stack i{
+    margin-right: 20px;
+    font-size: 30px;
+    color: #181820;
   }
 
 
